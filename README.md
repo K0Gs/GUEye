@@ -10,7 +10,7 @@ Adds a Graphical Wolrd selector, blocking of worlds configurable through the con
 
 Adds an Instant access shop, no need to hunt down player run shop.
 
-Adds an EnderChest like inventory with instant access, no need to cary an enderchest with you everywhere. Administrators can review the players private inventory.
+Adds an EnderChest like inventory with instant access, no need to cary an enderchest with you everywhere. Administrators can review the players private inventory using /gui invsee <player_name>.
 
 Disallows players from dropping items, attemp to lower item lag.
 
