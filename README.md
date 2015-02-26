@@ -21,8 +21,8 @@ Adds Jobs and Missions, missions allow for rank(only in the plugin), jobs give p
 Still to be Added
 =====
 
-MySQL support, needed to tie into ARG, Towny or Factions Wilderness chunks. Also to increase plugin speed.
+Complete<<>>MySQL support, needed to tie into ARG, Towny or Factions Wilderness chunks. Also to increase plugin speed.
 
-Add wilderness recovery, as players remove items from the wilderness(found by SQL lookup into the above plugins), the items will be logged and replaced every 30 seconds(30 seconds is default, will be configuable in config)
+Complete<<>>Add wilderness recovery, as players remove items from the wilderness(found by SQL lookup into the above plugins), the items will be logged and replaced every 30 seconds(30 seconds is default, will be configuable in config)
 
-Add /brb command. to activate AFK and send message to all other players. the player will be able to set their own brb message via in-game command.
+Complete<<>>Add /brb command. to activate AFK and send message to all other players. the player will be able to set their own brb message via in-game command.
