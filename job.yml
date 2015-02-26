@@ -1,0 +1,29 @@
+#Missions YAML version 1.0
+#K0Gs
+version: 1
+Enable: true
+Jobs: [chop, kill, devour]
+chop:
+  Detail:
+    lineOne: "Get Wood"
+    lineTwo: "Collect 9 wood"
+    type: collect
+    material: LOG
+    amount: 9
+    reward: 100
+kill:
+  Detail:
+    lineOne: "Slay Zombie"
+    lineTwo: "Kill 9 zombie"
+    type: kill
+    entity: zombie
+    amount: 9
+    reward: 1000
+devour:
+  Detail:
+    lineOne: "Pig out"
+    lineTwo: "Eat 9 apples"
+    type: ate
+    material: APPLE
+    amount: 9
+    reward: 500

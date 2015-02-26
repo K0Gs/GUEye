@@ -1,0 +1,9 @@
+#Ranks YAML version 1.0
+#K0Gs
+version: 1
+ranks: [0,1,2,3]
+rank: 
+  0: Derp
+  1: Woody
+  2: Slayer
+  3: Eater

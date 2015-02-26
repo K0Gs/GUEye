@@ -1,0 +1,17 @@
+#Assassins YAML version 1.0
+#K0Gs
+version: 1
+Enable: true
+Assassinations: [One, Two Three]
+One:
+  Detail: 
+    lineOne: Detail
+    lineTwo: More
+Two:
+  Detail: 
+    lineOne: Detail
+    lineTwo: More
+Three:
+  Detail: 
+    lineOne: Detail
+    lineTwo: More

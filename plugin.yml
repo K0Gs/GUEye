@@ -1,0 +1,26 @@
+author: K0Gs
+description: A GUI for additional usablity...
+database: false
+main: com.k0gshole.GUEye.GUEye
+name: GUEye
+version: '1.0'
+depend: [Vault, Essentials]
+softdepend: [AutoRegionGuard, Towny, Factions] 
+commands:
+   gui:     
+      description: Open The Gui.
+      usage: /gui, /gui invsee <player> 
+   brb:     
+      description: Go AFK and Hidden
+      usage: /brb, /brb <your custom message here>
+   exempt:
+      permission: GUEye.cleanupexempt    
+      description: Just a place holder
+      usage: /exempt
+permissions:
+   GUEye.cleanupexempt:
+      description: Overrides wilderness cleanup
+      default: op
+   GUEye.drops:
+      description: Overrides drop blocking
+      default: op

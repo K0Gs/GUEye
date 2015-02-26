@@ -1,0 +1,18 @@
+#GUEye Config 1.0
+#Created 5-31-2014
+#Edit 7-31-2014
+#enable Shop
+shop: true
+#enable Inventory
+inventory: true
+version: true
+BlockedWorlds: [world_nether]
+CleanupWorlds: [world]
+CleanupBlocks: [LOG, LOG_2, GRASS, DIRT, LEAVES, LEAVES_2, STONE, COAL_ORE]
+MySQL: 
+  enabled: false
+  host: localhost
+  port: 3306
+  database: minecraft
+  username: derp
+  password: herp
